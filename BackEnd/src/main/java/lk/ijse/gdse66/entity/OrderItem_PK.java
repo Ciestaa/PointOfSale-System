@@ -6,10 +6,7 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
-/**
- * @author : Kavithma Thushal
- * @project : Spring-POS
- **/
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Data

@@ -8,10 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.ArrayList;
 
-/**
- * @author : Kavithma Thushal
- * @project : Spring-POS
- **/
+
 public interface ItemService {
     void saveItem(@ModelAttribute ItemDTO dto);
 

@@ -6,10 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-/**
- * @author : Kavithma Thushal
- * @project : Spring-POS
- **/
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Data

@@ -4,10 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author : Kavithma Thushal
- * @project : Spring-POS
- **/
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
